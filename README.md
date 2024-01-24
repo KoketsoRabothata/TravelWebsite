@@ -23,6 +23,7 @@ KOKETSO RABOTHATA .
 
 5] Colour scheme : White,Black and Blue. 
 
+6] Target Audience: Anyone looking to travel.
 
 
 
