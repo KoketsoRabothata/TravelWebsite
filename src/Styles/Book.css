@@ -1,0 +1,112 @@
+.home{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.travel-booking-page{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+.content{
+    border-radius: 10px;
+    box-shadow: 0 0 20px paleturquoise;
+    text-align: center;
+
+}
+
+.add{
+    display: grid;
+    grid-template-columns:35% 35%;
+    justify-content: space-evenly;
+    
+}
+
+label{
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+}
+
+input[type='checkbox']{
+    margin-left: 10px;
+}
+
+select{
+    width: 50%;
+    padding: 8px;
+    margin: 10px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+    background-color: aqua;
+    color:white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: black;
+}
+
+.email{
+    font-size: large;
+    border-radius: 8px;
+    padding: 6px;
+    border: 4px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.phone{
+    font-size: large;
+    border-radius: 8px;
+    padding: 6px;
+    border: 4px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.datum{
+    font-size: large;
+    border-radius: 8px;
+    padding: 6px;
+    border: 4px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.naam{
+    font-size: large;
+    border-radius: 8px;
+    padding: 6px;
+    border: 4px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.message{
+    font-size: large;
+    border-radius: 8px;
+    padding: 6px;
+    border: 4px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.content h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
